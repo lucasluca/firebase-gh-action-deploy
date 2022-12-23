@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "teste-lucas-avenu"
+  },
+  "targets": {
+    "teste-lucas-avenu": {
+      "hosting": {
+        "teste-lucas-avenu": [
+          "teste-lucas-avenu"
+        ]
+      }
+    }
+  }
+}

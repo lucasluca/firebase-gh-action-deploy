@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "public": "dist",
+      "target": "teste-lucas-avenu",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+    }
+  ]
+}
